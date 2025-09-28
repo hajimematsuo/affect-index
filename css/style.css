@@ -1,0 +1,43 @@
+
+body, td {
+font-size: 12px;
+}
+
+
+body {
+scrollbar-color: #999999;
+scrollbar-track-color: #cccccc;
+wid-th: 995px;
+}
+
+
+h1 {
+font-family: Courier New, Times New Roman, serif;
+margin-bottom: 0px;
+font-size: 26px;
+font-weight: bold;
+}
+
+u {
+color: #0000EE;
+}
+
+iframe {
+border: 0px;
+}
+
+a {
+color: #0000EE;
+}
+
+a:active {
+color: #0000EE;
+}
+
+a:visited {
+color: #0000EE;
+}
+
+a:hover {
+color: #0000EE;
+}
